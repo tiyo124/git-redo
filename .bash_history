@@ -505,3 +505,35 @@ whatis wget
 sudo systemctl status wget
 sudo systemctl apache
 httpd -v
+cat /etc/password | grep tail -5
+cat /etc/passwd | grep tail -5
+cat /etc/password
+cat /etc/passwd
+cat /etc/passwd | grep kayode
+clear
+sudo yum install git -y
+git init
+echo "# paypal" >> README.md
+cat README.md
+git status
+git add .
+git add README.md
+git status
+git rm -- cached .
+git rm --cached .
+git status
+git rm --cached ...
+git log
+git commit -m "1st commit"
+git log
+git show aea9792351
+git reset
+git status
+git add README.md
+git show
+git reset --mixed HEAD~1
+git reset 
+git remote add origin https://github.com/tiyo124/paypal.git
+git remote add paypal https://github.com/tiyo124/paypal.git
+git remote -v
+git push paypal master
